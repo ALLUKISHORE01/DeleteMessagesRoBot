@@ -86,7 +86,7 @@ START_MESSAGE = get_config("START_MESSAGE", (
     "I'm a bot that can delete <s>all</s> "
     "your channel or supergroup messages. "
     "\n\n"
-    f"To use me: read 👉 {REQD_PERMISSIONS} 👈"
+    f"How To use me:- read 👉 👈"
     "\n\n"
     f"In case of issues, contact 👉 {GIT_REPO_LINK} 👈"
 ))
