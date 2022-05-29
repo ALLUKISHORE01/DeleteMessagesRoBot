@@ -86,7 +86,7 @@ START_MESSAGE = get_config("START_MESSAGE", (
     "I'm a bot that can delete <s>all</s> "
     "your channel or supergroup messages. "
     "\n\n"
-    f"How To use me:- read 👉  <a href="https://t.me/AlluKishore_Official">ɪᴛꜱ_ᴀᴋ</a> 👈"
+    f"To use me: read 👉 https://t.me/Virab_Bot_Updates/34 👈"
     "\n\n"
     f"In case of Any issues, contact 👉 @AlluKishore_Official 👈"
 ))
