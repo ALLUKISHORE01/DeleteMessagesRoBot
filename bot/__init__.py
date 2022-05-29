@@ -88,7 +88,7 @@ START_MESSAGE = get_config("START_MESSAGE", (
     "\n\n"
     f"How To use me:- read 👉 👈"
     "\n\n"
-    f"In case of issues, contact 👉 {GIT_REPO_LINK} 👈"
+    f"In case of Any issues, contact 👉 @AlluKishore_Official 👈"
 ))
 START_COMMAND = get_config("START_COMMAND", "start")
 DEL_ALL_COMMAND = get_config("DEL_ALL_COMMAND", "delall")
